@@ -1,0 +1,24 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Verdana';
+}
+li{
+    display: inline;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 10px;
+}
+.navmenu{
+    display: list-item;
+    background-color: rgb(196, 168, 196);
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+table{
+    border: 4px solid #ffffff;
+    margin: 0 auto;
+    padding: 20px;
+}
